@@ -12,7 +12,7 @@
 
 ## What it does
 
-Manually researching competitors is slow and inconsistent. This agent takes a company name, identifies 3–5 real competitors using live web search, researches each one individually, and generates a structured Markdown report — covering features, strengths/weaknesses, and pricing — all in under a minute.
+Manually researching competitors is slow and inconsistent. This agent takes a company name, identifies 3–5 real competitors using live web search, researches each one individually, and generates a structured Markdown report which covers features, strengths/weaknesses, and pricing. All in under a minute.
 
 ---
 
